@@ -1,0 +1,52 @@
+Home page
+1.Admin login
+2.user login 
+3.new user
+
+
+
+admin login
+1.Home
+2.View Student
+3.Upload Books
+4.View Books
+5.View Request
+6.View Comments
+7.Change Password
+8.Logout
+ 
+user login
+1.Home
+2.search books
+3.Request
+4.change password
+5.logout
+
+Data Bases
+1.Admin database
+ 1.AID
+ 2.ANAME
+ 3.APASS
+2.Books database
+ 1.BID
+ 2.Title
+ 3.Keyword
+ 4.File
+ 5.Location
+3.comments
+ 1.CID
+ 2.BID
+ 3.SID
+ 4.COMMENTS
+ 5.LOGS
+4.Request
+ 1.RID
+ 2.SID
+ 3.MESSAGE
+ 4.LOGS
+5.Student
+ 1.SID
+ 2.Name
+ 3.password
+ 4.Mail
+ 5.Department

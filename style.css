@@ -1,0 +1,57 @@
+html,body
+{
+    padding: 0;
+    margin: 0;
+}
+body
+{
+    font: sans-serif;
+    text-align: center;
+}
+div#container
+{
+    width: 700px;
+    height: auto;
+    margin: 0px auto;
+}
+div#header
+{
+    height: 80px;
+    background-color: deepskyblue;
+    line-height: 80px;
+}
+div#wraber
+{
+ float: right;
+ width: 500px;
+}
+div#wraber p
+{
+    text-align: justify;
+    padding: 5px;
+}
+div#nav
+{
+    float: left;
+    width: 200px;
+    text-align: left;
+    background-color: rgb(211, 244, 250);
+    height: 700px;
+}
+div#nav ul
+{
+    text-decoration:  square;
+}
+div#nav ul li a
+{
+    text-decoration:  none;
+}
+a:hover
+{
+    color: black;
+}
+div#footer
+{
+    clear: both;
+    background-color: deepskyblue;
+}
